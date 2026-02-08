@@ -1,22 +1,25 @@
-# 📘 Java Docs Journey
+# 📘 Java & Kotlin Journey
 
-> Repositório dedicado ao meu estudo da documentação oficial do Java: [Java Documentation (Oracle)](https://docs.oracle.com/en/java/).  
-> Aqui você encontrará exercícios, exemplos, anotações e experimentações conforme avanço seção por seção.
+> Repositório dedicado ao meu estudo e prática em **Java e Kotlin**, com foco em desenvolvimento backend, arquitetura e boas práticas.  
+> Aqui você encontrará exercícios, exemplos, anotações e experimentações conforme avanço nos estudos.
 
-> Repository dedicated to my study of the official Java documentation: [Java Documentation (Oracle)](https://docs.oracle.com/en/java/).  
-> Here you’ll find exercises, examples, notes, and experiments as I progress section by section.
+> Repository dedicated to my study and practice of **Java and Kotlin**, focused on backend development, architecture, and best practices.  
+> Here you’ll find exercises, examples, notes, and experiments as I progress in my studies.
 
 ---
 
 ## 🧭 Objetivo / Objective
 
-- **Dominar os fundamentos, recursos modernos e boas práticas da linguagem Java.**  
-  *Master the fundamentals, modern features, and best practices of the Java language.*
+- **Dominar os fundamentos, recursos modernos e boas práticas das linguagens Java e Kotlin.**  
+  *Master the fundamentals, modern features, and best practices of Java and Kotlin.*
 
-- **Praticar com exemplos e aplicações reais baseadas diretamente na documentação oficial.**  
-  *Practice with real-world examples and applications directly based on the official documentation.*
+- **Consolidar conceitos de backend na JVM, orientação a objetos e escrita de código limpo.**  
+  *Consolidate backend concepts on the JVM, object-oriented programming, and clean code practices.*
 
-- **Documentar meu progresso como desenvolvedor Java Backend.**  
-  *Document my progress as a Java Backend developer.*
+- **Praticar com exemplos e aplicações reais voltadas para sistemas backend.**  
+  *Practice with real-world examples and applications aimed at backend systems.*
+
+- **Documentar meu progresso como desenvolvedor Backend Java/Kotlin.**  
+  *Document my progress as a Java/Kotlin Backend developer.*
 
 ---
